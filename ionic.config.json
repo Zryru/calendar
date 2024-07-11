@@ -1,0 +1,8 @@
+{
+  "name": "calendar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9f6f486e"
+}
